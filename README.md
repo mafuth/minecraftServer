@@ -1,3 +1,3 @@
 # minecraftServer
-bedrock port is: 19132
-java port is: 25565
+bedrock port is: <b>19132<b/> <br>
+java port is: <b>25565<b/>
